@@ -25,7 +25,7 @@ O programa funciona como um **sistema de cadastro simplificado**, onde o usuári
 ### Membros da Equipe
 
 | Nome Completo |
-| :--- | :--- |
+| :--- |
 | **Beatriz Hermenegildo Egen**|
 | **Danieli Fiel Reis**|
 | **Gabriela Pereira Lino**|
